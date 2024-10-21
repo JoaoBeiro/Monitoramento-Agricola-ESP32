@@ -21,8 +21,7 @@ Este projeto tem como objetivo criar um sistema inteligente de monitoramento agr
 ## Desenho do Circuito Completo
 
 O circuito foi montado no simulador Wokwi. Abaixo, segue o link para a simulação:
-
-[Link para simulação no Wokwi](COLE O LINK AQUI)
+https://wokwi.com/projects/412383504069587969
 
 ## Como Configurar e Rodar o Projeto
 
